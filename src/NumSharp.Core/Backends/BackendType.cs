@@ -19,7 +19,5 @@ namespace NumSharp
         ///     Managed SIMD
         /// </summary>
         SIMD = 3,
-
-        ArrayFire = 4
     }
 }
